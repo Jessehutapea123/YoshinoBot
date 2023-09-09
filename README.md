@@ -44,23 +44,22 @@ git clone https://github.com/riycoders/YoshinoBot.git
 cd YoshinoBot
 pkg install yarn
 yarn
-node index.js --qr (jika ingin menggunakan kode qr atau 2 hp)
-node index.js --code (jika ingin menggunakan otp atau 1 hp)
+node index.js --qr (jika ingin menggunakan kode qr)
+node index.js --code (jika ingin menggunakan otp)
 ```
 
 ## Edit file
 `./config.json`
 ```ts
 {
-  "ownerNumber": "62xxx@s.whatsapp.net",
+  "ownerNumber": "0@s.whatsapp.net",
   "ownerName": "rc",
   "botName": "Yoshino Bot",
   "packname": "follow",
   "author": "@riycoders",
   "pathimg": "./media/yoshino.jpg",
   "apikey": {
-    "caliph": "",
-    "miko": ""
+    "caliph": ""
   },
   "hmm": {
     "yt": "https://youtube.com/@riycoders",
@@ -83,12 +82,12 @@ node index.js --code (jika ingin menggunakan otp atau 1 hp)
 
 ## ```HOW TO DEPLOY```
 
-[`Click Here For Tutorial`](https://youtu.be/lTNFMkLxs4U)<br>
+[`Click Here For Tutorial`](https://youtu.be/5dT58Uw1yCA?si=PtHBJpULMuzESNuU)<br>
 
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/lTNFMkLxs4U"><img src="https://telegra.ph/file/83c1fac7858267a251763.jpg" />
+  <a href="https://youtu.be/5dT58Uw1yCA?si=PtHBJpULMuzESNuU"><img src="https://telegra.ph/file/e1d04e2dd3c2f9876e995.jpg" />
 </p>
 
 ## Donate
@@ -96,7 +95,7 @@ node index.js --code (jika ingin menggunakan otp atau 1 hp)
 - [Gopay](https://wa.me/6281575886399?text=Bang+mau+donasi)
 
 # Official Group
-- [Group](https://chat.whatsapp.com/KShSydBXuPBIx0eeWgl7gY)
+- [Group](https://chat.whatsapp.com/BKSQD1UkNdWElB975sxiZS)
 
 # Thanks to
 <a href="https://github.com/whiskeysockets"><img src="https://github.com/whiskeysockets.png?size=100" width="100" height="100"></a> | [![Irfan](https://github.com/rtwone.png?size=100)](https://github.com/rtwone) | [![Yoga](https://github.com/YogGanz.png?size=100)](https://github.com/YogGanz) | [![Caliph](http://github.com/caliphdev.png?size=100)](http://github.com/caliphdev) | [![Handoko](http://github.com/handoko19.png?size=100)](http://github.com/handoko19) | [![Arthur](http://github.com/arthur-md.png?size=100)](http://github.com/arthur-md) | [![Riy](http://github.com/riycoders.png?size=100)](http://github.com/riycoders)
