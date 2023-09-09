@@ -1,0 +1,26 @@
+{
+  "ownerNumber": "6285261896393",
+  "ownerName": "ACT™JESSE",
+  "botName": "ACT™BOTS",
+  "packname": "follow",
+  "author": "ACT",
+  "pathimg": "./media/yoshino.jpg",
+  "apikey": {
+    "caliph": "caliphkey"
+  },
+  "hmm": {
+    "yt": "-",
+    "ig": "-",
+    "linkmenu": "-"
+  },
+  "donasi": {
+	"dana": "-",
+	"gopay": "-"
+  },
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
